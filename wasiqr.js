@@ -67,9 +67,9 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 D-BOT TECH 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhatsApp Channel = https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
+❷ || WhatsApp Channel = https://chat.whatsapp.com/ESPICSgIeaOEFA12kqtYRR
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-➌ || WhatsApp Group = https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw
+➌ || WhatsApp Group = https://chat.whatsapp.com/ESPICSgIeaOEFA12kqtYRR
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 D-BOT_TECH*
 _____________________________________
